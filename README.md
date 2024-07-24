@@ -22,4 +22,4 @@ A classic Snake game built with Java using Swing. Navigate the snake, eat food, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   [git clone https://github.com/Yash-Patil09/Snake-Game.git]
